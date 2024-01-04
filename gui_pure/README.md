@@ -1,0 +1,1 @@
+Purpose of this directory is to serve as a clean reference of GUI between WIN & LINUX

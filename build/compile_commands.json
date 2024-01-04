@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/camera.cpp.o -c /home/henkags/cpp-project/path-tracing/src/camera.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/camera.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/material.cpp.o -c /home/henkags/cpp-project/path-tracing/src/material.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/material.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui.cpp.o -c /home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_demo.cpp.o -c /home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_demo.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_draw.cpp.o -c /home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_draw.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_impl_glfw.cpp.o -c /home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_impl_glfw.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_impl_opengl3.cpp.o -c /home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_tables.cpp.o -c /home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_tables.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_widgets.cpp.o -c /home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_widgets.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/include/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/src/main.cpp.o -c /home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/src/main.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/raw_full_imgui_base_windows_msys64_gpp/imgui-test-2/src/main.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/scene.cpp.o -c /home/henkags/cpp-project/path-tracing/src/scene.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/scene.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/sphere.cpp.o -c /home/henkags/cpp-project/path-tracing/src/sphere.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/sphere.cpp"
+},
+{
+  "directory": "/home/henkags/cpp-project/path-tracing/build",
+  "command": "/usr/bin/g++  -I/home/henkags/cpp-project/path-tracing/libs/stb -I/home/henkags/cpp-project/path-tracing/src  -Wall -Wextra -pedantic -g -g -std=gnu++17 -o CMakeFiles/PathTracer.dir/src/vectors.cpp.o -c /home/henkags/cpp-project/path-tracing/src/vectors.cpp",
+  "file": "/home/henkags/cpp-project/path-tracing/src/vectors.cpp"
+}
+]
